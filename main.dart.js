@@ -69480,7 +69480,7 @@ ro(){var s=0,r=A.V(t.bD),q,p=2,o,n=[],m,l,k,j
 var $async$ro=A.P(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.W(A.aIc(A.oB("http://ip-api.com/json",0,null)),$async$ro)
+return A.W(A.aIc(A.oB("https://ip-api.com/json",0,null)),$async$ro)
 case 7:m=b
 if(m.b===200){l=m
 l=A.aI_(A.aFU(l.e).c.a.h(0,"charset")).de(0,l.x)
